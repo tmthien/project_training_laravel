@@ -1,0 +1,22 @@
+.info-heading {
+    font-size: 19px;
+    font-weight: 400;
+    color: #212B25;
+    margin-bottom: 7px;
+    text-transform: uppercase;
+}
+.info-sidebar li{
+    margin-bottom: 10px;
+}
+.info-sidebar ul {
+    padding: 0 !important;
+    margin-top: 10px;
+}
+
+.info-sidebar ul li a {
+    color: #1c1c1c;
+}
+
+.info-sidebar ul li a:hover {
+    color: #916841;
+}
